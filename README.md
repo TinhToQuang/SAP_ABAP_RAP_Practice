@@ -1,3 +1,3 @@
 # ABAP RAP (RESTful Application Programming) Application
 
-TBD (To Be Determined) the demo application during the Devtoberfest mission
+TBD (To Be Determined) the demo application after catch up the course overview
